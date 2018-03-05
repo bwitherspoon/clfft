@@ -1,4 +1,4 @@
-# CLFFT
+# OCL-FFT
 
 An OpenCL implementation of the fast Fourier transform (FFT) algorithm optimized
 for shared memory architectures.
